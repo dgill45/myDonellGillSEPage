@@ -12,3 +12,7 @@ img.resize {
     width:50%; 
     height: auto;
 }
+
+.intro{
+    text-align: center;
+}
