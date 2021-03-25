@@ -7,3 +7,8 @@ h1 {
 .portrait {
     border-radius: 50%;
 }
+
+img.resize {
+    width:50%; 
+    height: auto;
+}
