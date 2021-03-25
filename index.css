@@ -15,4 +15,9 @@ h1 {
 
 .jumbotron{
     text-align: center;
+    align-items: center;
+}
+
+.lower-half{
+    justify-content: center;
 }
