@@ -9,10 +9,10 @@ h1 {
 }
 
 .img-container {
-    width:50%; 
-    height: auto;
+    width:200px; 
+    height: 200px;
 }
 
-.intro{
+.jumbotron{
     text-align: center;
 }
