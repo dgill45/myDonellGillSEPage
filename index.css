@@ -9,8 +9,8 @@ h1 {
 }
 
 .img-container {
-    width:200px; 
-    height: 200px;
+    width:100px; 
+    height: 100px;
 }
 
 .jumbotron{
@@ -19,5 +19,9 @@ h1 {
 }
 
 .lower-half{
+    justify-content: center;
+}
+
+h3{
     justify-content: center;
 }
