@@ -8,7 +8,7 @@ h1 {
     border-radius: 50%;
 }
 
-img.resize {
+.img-container {
     width:50%; 
     height: auto;
 }
