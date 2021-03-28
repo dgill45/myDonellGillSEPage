@@ -9,8 +9,8 @@ h1 {
 }
 
 .img-container {
-    width:100px; 
-    height: 100px;
+    width:50px; 
+    height: 50px;
 }
 
 .jumbotron{
@@ -22,3 +22,7 @@ h1 {
     justify-content: center;
 }
 
+.hover{
+    text-decoration-color: darkblue;
+
+}
